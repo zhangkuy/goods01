@@ -20,3 +20,4 @@ wss.on('connection', function (client) {
   });
 });
 console.log('websocke服务器启动');
+console.log(123);
